@@ -1,0 +1,21 @@
+# Ejecutables y objetos
+practicas/*/src/matmul_O0
+practicas/*/src/matmul_O2
+practicas/*/src/matmul_O3
+practicas/*/src/hello_omp
+*.o
+*.out
+*.s
+
+# Entornos y cachés de Python / Jupyter
+cp-env/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Nota: results/*.csv y *.png SÍ se versionan
