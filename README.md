@@ -7,7 +7,7 @@ Contiene las Prácticas 1–6 y el proyecto integrador.
 
 | Nombre | Boleta | Usuario GitHub |
 |---|---|---|
-| Aburto González Dustin | 2023630135 | _(pendiente)_ |
+| Aburto González Dustin | 2023630135 | Dustin2603 |
 | Rodríguez Flor Alan Noé | 2025630489 | Krypton-N |
 | Sánchez Cornejo Gael Antonio | 2023630660 | _(pendiente)_ |
 
