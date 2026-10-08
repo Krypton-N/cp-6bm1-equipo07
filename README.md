@@ -27,7 +27,7 @@ Una por máquina del equipo. La salida cruda de cada una está en
 | Memoria RAM | 16 GB DDR5-4800 | 24 GB (WSL2 asigna 11 GB a Linux) | |
 | Extensiones vectoriales | AVX, AVX2, FMA3 | AVX2, FMA (sin AVX-512) | |
 | Sistema operativo y kernel | Windows 11 Home | Ubuntu 24.04.5 en WSL2 (Windows 11), kernel 6.18.33.1-microsoft-standard-WSL2 | |
-| Compilador | GCC (versión por confirmar) | gcc 13.3.0 | |
+| Compilador | GCC 13.0.0 | gcc 13.3.0 | |
 | Python / NumPy / BLAS | Por confirmar según instalación | 3.12.3 / 2.5.3 / OpenBLAS 0.3.34 | |
 | GPU (si hay) | NVIDIA GeForce RTX 4050 Laptop GPU (6 GB GDDR6) | NVIDIA GeForce RTX 5050 Laptop (8 GB), driver 610.74 | |
 | Condiciones | Laptop conectada a la corriente, modo de máximo rendimiento | Laptop conectada a la corriente, modo de energía "rendimiento", sin otras aplicaciones abiertas | |
